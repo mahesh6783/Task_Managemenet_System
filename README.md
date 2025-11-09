@@ -53,8 +53,8 @@ python
 -------------------------------------------
 ✅ 4. FRONTEND SETUP (REACT)
 -------------------------------------------
-✅ Step 1 — Install Node Modules
 Go to task_management_fe folder and run
+✅ Step 1 — Install Node Modules
 
 npm install
 
